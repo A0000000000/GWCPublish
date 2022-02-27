@@ -1,0 +1,2 @@
+# GWCPublish
+用于GameWirelessController和GameWirelessControllerServer发布二进制文件的仓库
