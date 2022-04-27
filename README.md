@@ -9,3 +9,7 @@
 * 现在软件还是Demo阶段，会有很多问题，当个玩具玩就可以了
 * 很多功能还没有实现，现在就只有一个控件在上面摆着，点了没反应是正常的
 * 为什么还没开源？ 答：代码写的太烂了，等我有时间重构一下，就开源，现在的代码让别人看了怕被笑话
+
+# 开源地址(时机成熟后会开源的)
+* Client: https://github.com/A0000000000/GameWirelessController
+* Server: https://github.com/A0000000000/GameWirelessControllerServer
